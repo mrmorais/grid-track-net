@@ -1,0 +1,9 @@
+ipykernel
+pandas
+pillow
+h5py
+matplotlib
+tqdm
+torch
+torchinfo
+wandb

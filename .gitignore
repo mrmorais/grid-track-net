@@ -1,2 +1,6 @@
 dataset/
+compiled_dataset/
+.venv/
+__pycache__
 .DS_Store
+wandb
